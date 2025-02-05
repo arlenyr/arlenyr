@@ -1,21 +1,192 @@
-# 💫 About Me:
-# Desarrolladora Backend & Administradora de Sistemas | Dominicana 🇩🇴<br><br>¡Hola! Soy una desarrolladora backend de 23 años basada en República Dominicana, especializada en crear soluciones robustas y eficientes, con experiencia en administración de sistemas.<br><br>## Mis áreas de expertise:<br>- Desarrollo de APIs escalables y microservicios<br>- Optimización de bases de datos<br>- Administración de servidores Windows Server<br>- Gestión de infraestructura en Digital Ocean<br>- Implementación y mantenimiento de sistemas backend<br><br>Como joven profesional, combino habilidades técnicas sólidas con una perspectiva fresca e innovadora. Mi experiencia en administración de sistemas complementa mis capacidades de desarrollo, permitiéndome ofrecer soluciones integrales y eficientes.<br><br>Siempre estoy buscando nuevos desafíos y oportunidades para expandir mis conocimientos en el ecosistema backend y la administración de sistemas. Me mantengo al día con las últimas tecnologías y mejores prácticas para asegurar un rendimiento óptimo y seguro en todos mis proyectos.<br><br>Abierta a colaboraciones y oportunidades que me permitan crecer como profesional y contribuir significativamente a proyectos innovadores. ¡Conectemos y creemos infraestructuras robustas y eficientes juntos!<br><br>#BackendDeveloper #SysAdmin #WindowsServer #DigitalOcean #InnovacionTech
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7CB9E8&height=120&section=header"/>
 
+  <h1>
+    Arleny Reyes 
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  </h1>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@arleth_santana) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@arlenyreyes7945) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arlenyr05@gmail.com) 
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7CB9E8&center=true&vCenter=true&width=435&lines=Backend+Developer;Innovaci%C3%B3n+Constante;Soluciones+Escalables;Desarrollo+de+APIs" alt="Typing SVG"/>
+    </a>
+  </p>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arlenyr &theme=prussian&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=arlenyr &theme=prussian&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arlenyr &theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=arlenyr &limit=5&theme=transparent&combine_all_yearly_contributions=true)
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Sobre mí </h2>
 
----
-[![](https://visitcount.itsvg.in/api?id=arlenyr &icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="left">
+  
+### ¡Hola! 👋
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Soy Arleny Reyes, una apasionada Desarrolladora Backend de 23 años desde República Dominicana 🇩🇴. 
+Me especializo en crear soluciones eficientes y escalables, con un enfoque en:
+
+- 💻 Desarrollo Backend y APIs
+- 🛠 Administración de Servidores
+- 🔧 Optimización de Sistemas
+- 📊 Bases de Datos
+- 🚀 Integración Continua
+
+### Mi enfoque actual:
+- 📚 Profundizando en Arquitectura de Microservicios
+- ☁️ Explorando Cloud Computing
+- 🔄 Mejores prácticas en DevOps
+- 🌟 Desarrollo de APIs escalables
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<h2>🛠️ Stack Tecnológico</h2>
+
+<h3>👩‍💻 Lenguajes y Frameworks</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
+
+<h3>🗄️ Servidores y DevOps</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
+</p>
+
+<h3>💾 Bases de Datos</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+</p>
+
+<h3>🛠️ Herramientas de Desarrollo</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+<h2>📊 GitHub Stats</h2>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arlenyr&show_icons=true&theme=transparent&title_color=7CB9E8&icon_color=7CB9E8&text_color=FFFFFF&hide_border=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arlenyr&layout=compact&theme=transparent&title_color=7CB9E8&hide_border=true&text_color=FFFFFF"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=arlenyr&theme=react-dark&hide_border=true&bg_color=0D1117&color=7CB9E8&line=7CB9E8&point=7CB9E8&title_color=7CB9E8"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com?user=arlenyr&theme=transparent&ring=7CB9E8&fire=7CB9E8&currStreakLabel=7CB9E8&hide_border=true"/>
+  </a>
+</div>
+<h2>🌟 Proyectos Destacados</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Sistema de Restaurante</h3>
+        <div align="center">
+          <a href="https://github.com/TU-USERNAME/restaurante" target="_blank">
+            <img src="https://images.pexels.com/photos/6267/menu-restaurant-vintage-table.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="400" alt="Sistema de Restaurante">
+          </a>
+          <p>
+            <a href="https://github.com/TU-USERNAME/restaurante" target="_blank">
+              <img src="https://img.shields.io/badge/VER-7CB9E8?style=for-the-badge&logo=github&logoColor=white">
+            </a>
+          </p>
+          <p>Sistema de gestión para restaurantes. Incluye manejo de pedidos, inventario y facturación.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Sistema de Veterinaria</h3>
+        <div align="center">
+          <a href="https://github.com/TU-USERNAME/sistema-veterinaria" target="_blank">
+            <img src="https://images.pexels.com/photos/7469214/pexels-photo-7469214.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="400" alt="Sistema de Veterinaria">
+          </a>
+          <p>
+            <a href="https://github.com/TU-USERNAME/sistema-veterinaria" target="_blank">
+              <img src="https://img.shields.io/badge/VER-7CB9E8?style=for-the-badge&logo=github&logoColor=white">
+            </a>
+          </p>
+          <p>Aplicación para la gestión de clínicas veterinarias. Maneja citas, historiales médicos y facturación.</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Sistema de Abogados</h3>
+        <div align="center">
+          <a href="https://github.com/TU-USERNAME/sistema-abogados" target="_blank">
+            <img src="https://images.pexels.com/photos/5668473/pexels-photo-5668473.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="400" alt="Sistema de Abogados">
+          </a>
+          <p>
+            <a href="https://github.com/TU-USERNAME/sistema-abogados" target="_blank">
+              <img src="https://img.shields.io/badge/VER-7CB9E8?style=for-the-badge&logo=github&logoColor=white">
+            </a>
+          </p>
+          <p>Plataforma para la gestión de bufetes de abogados. Incluye seguimiento de casos, facturación y agenda.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">App de Shopping (Flutter)</h3>
+        <div align="center">
+          <a href="https://github.com/TU-USERNAME/app-shopping-flutter" target="_blank">
+            <img src="https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="400" alt="App de Shopping">
+          </a>
+          <p>
+            <a href="https://github.com/TU-USERNAME/app-shopping-flutter" target="_blank">
+              <img src="https://img.shields.io/badge/VER-7CB9E8?style=for-the-badge&logo=github&logoColor=white">
+            </a>
+          </p>
+          <p>Aplicación móvil de compras desarrollada con Flutter. Ofrece catálogo de productos, carrito y proceso de pago.</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/TU-USERNAME?tab=repositories" target="_blank">
+    <img alt="Ver Más Proyectos" title="Ver Más Proyectos" src="https://img.shields.io/badge/-Ver%20M%C3%A1s%20Proyectos-7CB9E8?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+<h2>📫 Conecta Conmigo</h2>
+<p align="center">
+  <a href="https://linkedin.com/in/TU-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:TU-EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7CB9E8&height=120&section=footer"/>
+</div>
